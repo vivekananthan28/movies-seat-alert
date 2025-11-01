@@ -14,3 +14,4 @@ pytz==2024.1
 # For HTML parsing and escaping
 html5lib==1.1
 
+python-dotenv==1.0.1
